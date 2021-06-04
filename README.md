@@ -1,4 +1,3 @@
 # CS230_Final_Project
 
-All the scripts are in the ggcnn directory, and the script to run the traininga and evaluation is in the Google Colab notebook. 
-The Cornell grasping dataset can be acquired online.
+This repo contains the scripts we altered from the ggcnn (https://github.com/dougsm/ggcnn) as well as the Google Colab notebook created for training and evaluation.
